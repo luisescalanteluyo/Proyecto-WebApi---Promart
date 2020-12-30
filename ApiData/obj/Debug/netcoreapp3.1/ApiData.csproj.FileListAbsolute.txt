@@ -1,0 +1,13 @@
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\bin\Debug\netcoreapp3.1\ApiData.deps.json
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\bin\Debug\netcoreapp3.1\ApiData.dll
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\obj\Debug\netcoreapp3.1\ApiData.csprojAssemblyReference.cache
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\obj\Debug\netcoreapp3.1\ApiData.AssemblyInfoInputs.cache
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\obj\Debug\netcoreapp3.1\ApiData.AssemblyInfo.cs
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\bin\Debug\netcoreapp3.1\ApiData.runtimeconfig.json
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\bin\Debug\netcoreapp3.1\ApiData.runtimeconfig.dev.json
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\bin\Debug\netcoreapp3.1\ApiData.pdb
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\bin\Debug\netcoreapp3.1\ApiEntitty.dll
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\bin\Debug\netcoreapp3.1\ApiEntitty.pdb
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\obj\Debug\netcoreapp3.1\ApiData.csproj.CopyComplete
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\obj\Debug\netcoreapp3.1\ApiData.dll
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiData\obj\Debug\netcoreapp3.1\ApiData.pdb

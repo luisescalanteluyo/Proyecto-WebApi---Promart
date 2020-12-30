@@ -1,0 +1,8 @@
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiEntitty\bin\Debug\netcoreapp3.1\ApiEntitty.deps.json
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiEntitty\bin\Debug\netcoreapp3.1\ApiEntitty.dll
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiEntitty\bin\Debug\netcoreapp3.1\ApiEntitty.pdb
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiEntitty\obj\Debug\netcoreapp3.1\ApiEntitty.csprojAssemblyReference.cache
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiEntitty\obj\Debug\netcoreapp3.1\ApiEntitty.AssemblyInfoInputs.cache
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiEntitty\obj\Debug\netcoreapp3.1\ApiEntitty.AssemblyInfo.cs
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiEntitty\obj\Debug\netcoreapp3.1\ApiEntitty.dll
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiEntitty\obj\Debug\netcoreapp3.1\ApiEntitty.pdb

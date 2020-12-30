@@ -1,0 +1,15 @@
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\bin\Debug\netcoreapp3.1\ApiBusiness.deps.json
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\bin\Debug\netcoreapp3.1\ApiBusiness.dll
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\obj\Debug\netcoreapp3.1\ApiBusiness.AssemblyInfoInputs.cache
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\obj\Debug\netcoreapp3.1\ApiBusiness.AssemblyInfo.cs
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\obj\Debug\netcoreapp3.1\ApiBusiness.csprojAssemblyReference.cache
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\bin\Debug\netcoreapp3.1\ApiBusiness.runtimeconfig.json
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\bin\Debug\netcoreapp3.1\ApiBusiness.runtimeconfig.dev.json
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\bin\Debug\netcoreapp3.1\ApiBusiness.pdb
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\bin\Debug\netcoreapp3.1\ApiData.dll
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\bin\Debug\netcoreapp3.1\ApiEntitty.dll
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\bin\Debug\netcoreapp3.1\ApiData.pdb
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\bin\Debug\netcoreapp3.1\ApiEntitty.pdb
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\obj\Debug\netcoreapp3.1\ApiBusiness.csproj.CopyComplete
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\obj\Debug\netcoreapp3.1\ApiBusiness.dll
+D:\LUIS\PROYECTOS\Prueba\WebApi\ApiBusiness\obj\Debug\netcoreapp3.1\ApiBusiness.pdb
